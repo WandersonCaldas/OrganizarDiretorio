@@ -1,5 +1,5 @@
-# OrganizarDiretorio
-Organiza estrutura de pastas. Copiando de um diretório para outro. Preencher os valores no arquivo App.Config
+# Organizar diretório de arquivos
+Organiza estrutura de pastas, com base na data do arquivo. Copiando de um diretório para outro. Preencher os valores no arquivo App.Config
 
 Origem
 <add key="caminho_origem" value="C:\teste\origem\" />
